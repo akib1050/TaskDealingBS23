@@ -22,6 +22,11 @@ Follow the instruction below for installation:
 # API used
 
 GET, POST, DELETE
+(All the End Points are with a comment in the Code)
+
+## Description
+
+This is my very first Spring Boot Application and in it I have used spring framework and spring boot. I used both Spring Boot and Spring Framework in this, my first Spring Boot application. After completing the steps, the programme will launch and the admin portal will be visible. Since this is my first project, I am the only one who can handle task creation, deletion, updating, and addition. I was able to use an H2 database to bring the data and store it. You can still Create, Retrieval, Update, and Delete using the REST end points, but the design of the Login and Registration page is "Done," even though I was unable to establish a connection with the H2 database. For this reason, I have left the code in place and commented it out. 
 
 
 
