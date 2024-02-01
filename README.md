@@ -32,8 +32,8 @@ GET, POST, DELETE
 |----------------|-------------------------------|--------|
 |/localhost:8090/admin|`'Admin Home'`            |          |
 |/admin/categories      |`"All the Tasks"`      |          |
-|/register        |`register page`|
-|/login 		| `login page` |
+|/register        |`register page`| (Won't Work for now)
+|/login 		| `login page` |(Won't Work for now)
 
 
 ## Description
